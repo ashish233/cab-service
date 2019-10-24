@@ -2,7 +2,7 @@
 Basic Application which will use to book cab
 
 
-- User can book a cab by providing location (.lattitude and longitude 
+- User can book a cab by providing location (.lattitude and longitude)
 - Nearest cab will assign to user. 
 - User can book only single cab at a time.
 - User request gets reject if cab is not avaiable 
